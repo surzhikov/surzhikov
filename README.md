@@ -31,7 +31,7 @@ I build web apps, MVPs, and custom business software — at the speed of a team,
 
 | Project | Stack | Description |
 |---|---|---|
-| [OpenEventor](https://github.com/Surzhikov/openeventor) | Go · React · SQLite | Open source sports timing platform for orienteering, running, skiing |
+| OpenEventor | Go · React · SQLite | Open source sports timing platform for orienteering, running, skiing |
 | WTS Studio | Go · React · Three.js | AI-powered storyboard creator with canvas editor |
 | RTB Server | Go · NATS · Redis | Real-time bidding server, 10K req/s, built in 3 days |
 | RAG Support Platform | PHP · Laravel · Qdrant | AI customer support with vector search |
